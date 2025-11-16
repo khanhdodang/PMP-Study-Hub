@@ -1,6 +1,6 @@
 # Privacy Policy for PMP Study Hub
 
-**Last updated:** [Insert Date]
+**Last updated:** [Sun 16 Nov, 2025]
 
 PMP Study Hub (“we”, “our”, or “the App”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
